@@ -4,7 +4,7 @@
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
 
-**APPARATUS REQUIRED:**
+**APPARATUS REQUIRED:** 
 
 *1.	Regulated Power supply ( RPS)	(0-30 V)*
    
